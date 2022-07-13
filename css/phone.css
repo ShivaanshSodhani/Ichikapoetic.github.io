@@ -1,0 +1,63 @@
+#navbar{
+    flex-direction: column;
+    height: 110px;
+}
+
+#navbar ul{
+    padding: 30px;
+    margin: 0px;
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    /* padding: 0px 7px; */
+    margin: 10px;
+    border: 5px;
+    text-align: center;
+    background-color: grey;
+}
+
+#logo img{
+    margin: 1px 0px;
+    padding: 0px 0px;
+}
+
+#home{
+    height: auto;
+    width: 100%;
+}
+#home::before{
+    height: 480px;
+}
+#home img{
+    font-size: 13px;
+}
+
+#logoShow img{
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+#about{
+    margin: 0px;
+    padding: 0px;
+}
+
+.about-all{
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-link{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact-link p{
+    margin: 0px;
+    padding: 0px;
+}
