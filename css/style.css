@@ -48,7 +48,7 @@ html{
     flex-direction: column;
     height: 150vh;
     position: relative; 
-    background: url("img/7.jpg") no-repeat center center/cover;
+    background: url("../img/7.jpg") no-repeat center center/cover;
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -103,7 +103,7 @@ html{
 #about::before{
     content: "";
     position: absolute;
-    background: url('img/frameback2.jpg') no-repeat center center/cover;
+    background: url('../img/frameback2.jpg') no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index: -2;
@@ -164,99 +164,99 @@ html{
     overflow: hidden;
 }
 #c1{
-    background-image: url(img/aesthetic1.jpg);
+    background-image: url(../img/aesthetic1.jpg);
     opacity: 60%;
 }
 
 #c2{
-    background-image: url(img/aesthetic2.jpg);
+    background-image: url(../img/aesthetic2.jpg);
     opacity: 100%;
     color: white;
 }
 #c3{
-    background-image: url(img/aesthetic3.jpg);
+    background-image: url(../img/aesthetic3.jpg);
     opacity: 100%;
     color: white;    
 }
 #c4{
-    background-image: url(img/aesthetic4.jpg);
+    background-image: url(../img/aesthetic4.jpg);
     opacity: 100%;
     color: black;
 }
 
 #c5{
-    background-image: url(img/aesthetic5.jpg);
+    background-image: url(../img/aesthetic5.jpg);
     opacity: 100%;
     color: white;   
 }
 #c6{
-    background-image: url(img/aesthetic6.jpg);
+    background-image: url(../img/aesthetic6.jpg);
     opacity: 100%;
     color: white;     
 }
 
 #c7{
-    background-image: url(img/aesthetic7.jpg);
+    background-image: url(../img/aesthetic7.jpg);
     opacity: 100%;
     color: white;     
 }
 
 #c8{
-    background-image: url(img/aesthetic8.jpg);
+    background-image: url(../img/aesthetic8.jpg);
     opacity: 100%;
     color: white;     
 }
 
 #c9{
-    background-image: url(img/aesthetic9.jpg);
+    background-image: url(../img/aesthetic9.jpg);
     opacity: 100%;
     color: black;     
 }
 
 #c10{
-    background-image: url(img/aesthetic10.jpg);
+    background-image: url(../img/aesthetic10.jpg);
     opacity: 100%;
     color: black;    
 }
 
 #c11{
-    background-image: url(img/aesthetic11.jpg);
+    background-image: url(../img/aesthetic11.jpg);
     opacity: 100%;
     color: black;
 }
 
 #c12{
-    background-image: url(img/aesthetic12.jpg);
+    background-image: url(../img/aesthetic12.jpg);
     opacity: 100%;
     color: white;
 }
 
 #c13{
-    background-image: url(img/aesthetic13.jpg);
+    background-image: url(../img/aesthetic13.jpg);
     opacity: 100%;
     color: white;
 }
 
 #c14{
-    background-image: url(img/aesthetic14.jpg);
+    background-image: url(../img/aesthetic14.jpg);
     opacity: 100%;
     color: white;
 }
 
 #c15{
-    background-image: url(img/aesthetic15.jpg);
+    background-image: url(../img/aesthetic15.jpg);
     opacity: 100%;
     color: black;
 }
 
 #c16{
-    background-image: url(img/aesthetic16.jpg);
+    background-image: url(../img/aesthetic16.jpg);
     opacity: 100%;
     color: orangered;
 }
 
 #c17{
-    background-image: url(img/aesthetic17.jpg);
+    background-image: url(../img/aesthetic17.jpg);
     opacity: 100%;
     color: white;   
 }
